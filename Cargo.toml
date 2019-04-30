@@ -1,0 +1,7 @@
+[package]
+name = "MFTRust"
+version = "0.1.0"
+authors = ["beyran"]
+edition = "2018"
+
+[dependencies]

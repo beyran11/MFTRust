@@ -25,4 +25,25 @@ fn main() {
         "August", "September", "October", "November", "December"];
 
     println!("remiander is :{},{}",remainder,quotient);
+
+    another_function();
+
+    function_with_input(11) ;
+
+    let x = plus_one(5);
+
+    println!("The value of x is: {}", x);
+
+}
+
+fn another_function() {
+    println!("Another function.");
+}
+
+fn function_with_input(x:i32) {
+    println!("Input is :{}",x);
+}
+
+fn plus_one(x: i32) -> i32 {
+    x + 1
 }

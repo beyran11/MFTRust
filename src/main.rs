@@ -13,6 +13,7 @@ fn main() {
 
     // remainder
     let remainder = 43 % 5 ;
+    let tup: (i32, f64, u8) = (500, 6.4, 1);
 
     println!("remiander is :{},{}",remainder,quotient);
 }

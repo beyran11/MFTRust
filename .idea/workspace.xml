@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8597d5c3-49d0-4668-a388-e927897d9212" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,10 +14,11 @@
     <session id="732410311">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -40,15 +40,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main.rs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="779">
+            <state relative-caret-position="195">
               <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
               <folding>
-                <element signature="e#620#621#0" expanded="true" />
-                <element signature="e#657#658#0" expanded="true" />
                 <element signature="e#746#747#0" expanded="true" />
-                <element signature="e#780#781#0" expanded="true" />
-                <element signature="e#879#880#0" expanded="true" />
-                <element signature="e#891#892#0" expanded="true" />
+                <element signature="e#783#784#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -84,7 +80,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -102,6 +97,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -147,16 +143,17 @@
       <workItem from="1556963038450" duration="1764000" />
       <workItem from="1556964950914" duration="951000" />
       <workItem from="1556965920423" duration="1790000" />
+      <workItem from="1556967958015" duration="1790000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16266000" />
+    <option name="totallyTimeSpent" value="18056000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="1602" height="873" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1895887" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19215938" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Designer" order="3" />
@@ -238,15 +235,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main.rs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="779">
+        <state relative-caret-position="195">
           <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
           <folding>
-            <element signature="e#620#621#0" expanded="true" />
-            <element signature="e#657#658#0" expanded="true" />
             <element signature="e#746#747#0" expanded="true" />
-            <element signature="e#780#781#0" expanded="true" />
-            <element signature="e#879#880#0" expanded="true" />
-            <element signature="e#891#892#0" expanded="true" />
+            <element signature="e#783#784#0" expanded="true" />
           </folding>
         </state>
       </provider>

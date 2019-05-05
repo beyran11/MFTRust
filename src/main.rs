@@ -34,6 +34,11 @@ fn main() {
 
     println!("The value of x is: {}", x);
 
+    let x11:f64 = 25.5 ;
+    let y11:f64 = 2.25 ;
+    multiply(x11,y11) ;
+    //multiply(25.5,23.4) ;
+
 }
 
 fn another_function() {
@@ -46,4 +51,9 @@ fn function_with_input(x:i32) {
 
 fn plus_one(x: i32) -> i32 {
     x + 1
+}
+
+fn multiply(x:f64,y:f64){
+    let z = x*y ;
+    println!("Multiplication Result is: {}",z);
 }
